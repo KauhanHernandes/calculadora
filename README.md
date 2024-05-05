@@ -21,4 +21,4 @@ Este projeto foi desenvolvido como parte de um exercicio do Programa Start by Ca
 
 ## Créditos
 
-- Kauhan Hernandes - 01596030
+- Kauhan Hernandes
